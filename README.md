@@ -1,3 +1,3 @@
 #README WRITING
 
-Description: Learning how to use markdown
+Description: Learning how to use markdown.
